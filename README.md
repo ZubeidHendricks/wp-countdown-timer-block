@@ -1,5 +1,7 @@
 # Countdown Timer
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-countdown-timer-block/releases/latest/download/countdown-timer-block.zip)**
+
 A live countdown timer you drop anywhere with a shortcode — launches, sales,
 events. Lightweight, no jQuery. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
